@@ -1,0 +1,1 @@
+https://github.com/home-assistant/home-assistant/issues/1028
